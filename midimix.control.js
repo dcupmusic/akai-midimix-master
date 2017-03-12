@@ -19,7 +19,7 @@ load("midimix.functions.js")
 
 //define the range of CCs
 
-var CC_RANGE_HI = 122;
+var CC_RANGE_HI = 120;
 var CC_RANGE_LO = 100;
 
 var parameterIds = [];
